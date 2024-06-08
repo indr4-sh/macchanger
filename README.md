@@ -1,4 +1,4 @@
-# Project Title
+# Macchanger
 
 ## Table of Contents
 - [Usage](#usage)
